@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void Installment(float amount, int months, float interest, float *installment);
-// Stanislav Roba
+// Stanislav Gabriel Roba
 	main() {
 		float amount,salary,installment,interest=1.08;
 		int months,year=0,i=12;
